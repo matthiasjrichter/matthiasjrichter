@@ -1,2 +1,2 @@
 - Hi, I’m Matthias J. Richter :vulcan_salute:
-- Reach me via [Twitter](https://twitter.com/matjrichter) or [Mastodon](https://troet.cafe/@draussensaiter) :writing_hand:
+- Reach me via [Bluesky](https://bsky.app/profile/matthiasjrichter.bsky.social) :writing_hand:
